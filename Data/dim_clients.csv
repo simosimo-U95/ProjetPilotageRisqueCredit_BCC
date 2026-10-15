@@ -1,0 +1,551 @@
+id_client,nom_client,type_client,segment,secteur_activite,groupe_economique,id_agence,note_interne_initiale,date_entree_relation
+1,Landry Fotso,Particulier,Retail,Salarié du secteur privé,Hors groupe,19,D,2018-05-24
+2,Abakar Nguema,Particulier,Retail,Salarié du secteur privé,Hors groupe,11,E,2010-01-10
+3,Emmanuel Massamba,Particulier,Retail,Commerçant / indépendant,Hors groupe,10,B,2018-01-13
+4,Rodrigue Owona,Particulier,Retail,Salarié du secteur public,Hors groupe,26,C,2009-10-21
+5,Estelle Zoungrana,Particulier,Retail,Salarié du secteur public,Hors groupe,16,B,2010-03-13
+6,Hervé Mbarga,Particulier,Retail,Salarié du secteur privé,Hors groupe,26,E,2023-05-03
+7,Marie Zoungrana,Particulier,Retail,Salarié du secteur privé,Hors groupe,27,D,2012-08-22
+8,Ginette Ndongo,Particulier,Retail,Salarié du secteur public,Hors groupe,15,C,2010-08-11
+9,Pierre Abdoulaye,Particulier,Retail,Commerçant / indépendant,Hors groupe,40,D,2013-02-24
+10,Boris Obiang,Particulier,Retail,Salarié du secteur public,Hors groupe,2,B,2011-09-04
+11,Danielle Nguema Ayingono,Particulier,Retail,Salarié du secteur public,Hors groupe,11,D,2018-12-27
+12,Jean Obiang,Particulier,Retail,Salarié du secteur privé,Hors groupe,11,A,2009-06-09
+13,Marie Deby,Particulier,Retail,Salarié du secteur privé,Hors groupe,5,B,2017-12-27
+14,Arnaud Mbarga,Particulier,Retail,Commerçant / indépendant,Hors groupe,32,C,2014-11-02
+15,Arnaud Bokassa-Ngaïssona,Particulier,Retail,Salarié du secteur privé,Hors groupe,36,B,2013-02-17
+16,Guy Nguema,Particulier,Retail,Salarié du secteur privé,Hors groupe,10,E,2024-08-22
+17,Donatien Atangana,Particulier,Retail,Salarié du secteur privé,Hors groupe,27,C,2020-01-22
+18,Nadège Ouaddaï,Particulier,Retail,Salarié du secteur privé,Hors groupe,13,A,2010-04-27
+19,Olive Obiang,Particulier,Retail,Salarié du secteur privé,Hors groupe,5,A,2013-12-16
+20,Fatimé Djoumessi,Particulier,Retail,Commerçant / indépendant,Hors groupe,30,C,2021-09-01
+21,Michel Zoungrana,Particulier,Retail,Commerçant / indépendant,Hors groupe,29,D,2019-03-08
+22,Christelle Nzamba,Particulier,Retail,Profession libérale,Hors groupe,9,D,2023-11-20
+23,Olive Esono,Particulier,Retail,Salarié du secteur public,Hors groupe,17,C,2011-05-15
+24,Patrick Kenfack,Particulier,Retail,Salarié du secteur public,Hors groupe,38,D,2016-01-29
+25,Christian Zoungrana,Particulier,Retail,Salarié du secteur privé,Hors groupe,37,D,2018-09-12
+26,Estelle Haroun,Particulier,Retail,Salarié du secteur public,Hors groupe,13,D,2018-04-21
+27,Olive Mangue,Particulier,Retail,Salarié du secteur public,Hors groupe,28,C,2013-11-27
+28,Boris Biyik,Particulier,Retail,Salarié du secteur public,Hors groupe,28,A,2012-01-05
+29,Prisca Kamga,Particulier,Retail,Salarié du secteur privé,Hors groupe,4,C,2024-01-10
+30,Cyrille Zoungrana,Particulier,Retail,Salarié du secteur public,Hors groupe,25,E,2022-08-31
+31,Mariam Haroun,Particulier,Retail,Profession libérale,Hors groupe,31,B,2011-12-18
+32,Arnaud Abdoulaye,Particulier,Retail,Salarié du secteur public,Hors groupe,16,B,2024-10-08
+33,Marie Deby,Particulier,Retail,Salarié du secteur public,Hors groupe,14,D,2017-09-20
+34,Landry Owona,Particulier,Retail,Salarié du secteur privé,Hors groupe,37,C,2018-04-19
+35,Abakar Massamba,Particulier,Retail,Salarié du secteur privé,Hors groupe,26,B,2021-01-28
+36,Fatimé Esono,Particulier,Retail,Salarié du secteur public,Hors groupe,22,A,2008-09-26
+37,Ismaël Owona,Particulier,Retail,Salarié du secteur public,Hors groupe,25,B,2020-05-22
+38,Cyrille Eyenga,Particulier,Retail,Salarié du secteur public,Hors groupe,11,C,2020-07-14
+39,Josiane Mangue,Particulier,Retail,Salarié du secteur public,Hors groupe,25,D,2012-04-06
+40,Pierre Fotso,Particulier,Retail,Salarié du secteur public,Hors groupe,5,B,2018-07-16
+41,Estelle Nkoulou,Particulier,Retail,Salarié du secteur privé,Hors groupe,40,D,2011-06-11
+42,Landry Zoungrana,Particulier,Retail,Salarié du secteur privé,Hors groupe,39,C,2012-12-23
+43,Emmanuel Massamba,Particulier,Retail,Profession libérale,Hors groupe,38,C,2017-07-29
+44,Donatien Deby,Particulier,Retail,Salarié du secteur privé,Hors groupe,7,B,2012-11-25
+45,Ludovic Owona,Particulier,Retail,Salarié du secteur public,Hors groupe,34,E,2020-02-08
+46,Arnaud Ouaddaï,Particulier,Retail,Salarié du secteur privé,Hors groupe,39,C,2020-04-01
+47,Chantal Biyik,Particulier,Retail,Salarié du secteur public,Hors groupe,36,D,2015-12-02
+48,Estelle Ngoma,Particulier,Retail,Commerçant / indépendant,Hors groupe,9,D,2010-02-27
+49,Ludovic Zoungrana,Particulier,Retail,Salarié du secteur public,Hors groupe,2,C,2019-08-16
+50,Estelle Abdoulaye,Particulier,Retail,Salarié du secteur public,Hors groupe,17,A,2024-11-14
+51,Patrick Mangue,Particulier,Retail,Salarié du secteur privé,Hors groupe,23,B,2011-02-19
+52,Cyrille Kenfack,Particulier,Retail,Salarié du secteur privé,Hors groupe,14,B,2019-01-01
+53,Serge Biyik,Particulier,Retail,Salarié du secteur public,Hors groupe,18,D,2021-05-16
+54,Cyrille Eyenga,Particulier,Retail,Salarié du secteur public,Hors groupe,15,C,2012-08-18
+55,Flore Nkoulou,Particulier,Retail,Salarié du secteur privé,Hors groupe,8,A,2015-12-23
+56,Michel Eyenga,Particulier,Retail,Commerçant / indépendant,Hors groupe,3,B,2017-01-25
+57,Ludovic Kenfack,Particulier,Retail,Commerçant / indépendant,Hors groupe,23,E,2014-02-23
+58,Sandrine Esono,Particulier,Retail,Salarié du secteur public,Hors groupe,23,B,2017-03-10
+59,Nestor Tchoumi,Particulier,Retail,Commerçant / indépendant,Hors groupe,40,C,2023-02-21
+60,Carine Esono,Particulier,Retail,Salarié du secteur privé,Hors groupe,18,A,2011-05-03
+61,Donatien Esono,Particulier,Retail,Salarié du secteur privé,Hors groupe,21,B,2015-01-12
+62,Nadège Biyik,Particulier,Retail,Salarié du secteur privé,Hors groupe,21,A,2020-01-31
+63,Carine Kamga,Particulier,Retail,Profession libérale,Hors groupe,8,C,2022-10-21
+64,Brigitte Deby,Particulier,Retail,Salarié du secteur privé,Hors groupe,17,B,2024-09-13
+65,Serge Bokassa-Ngaïssona,Particulier,Retail,Commerçant / indépendant,Hors groupe,36,C,2020-08-06
+66,Ludovic Tchoumi,Particulier,Retail,Salarié du secteur privé,Hors groupe,40,C,2013-05-23
+67,Guy Nzamba,Particulier,Retail,Salarié du secteur public,Hors groupe,3,C,2011-08-17
+68,Franck Kamga,Particulier,Retail,Commerçant / indépendant,Hors groupe,3,B,2021-03-26
+69,Hervé Ouaddaï,Particulier,Retail,Salarié du secteur privé,Hors groupe,21,B,2012-09-01
+70,Patrick Kamga,Particulier,Retail,Profession libérale,Hors groupe,13,A,2013-03-21
+71,Ismaël Mba,Particulier,Retail,Salarié du secteur public,Hors groupe,16,D,2008-07-03
+72,Sandrine Nguema,Particulier,Retail,Profession libérale,Hors groupe,29,C,2020-03-05
+73,Franck Nguema Ayingono,Particulier,Retail,Salarié du secteur privé,Hors groupe,24,B,2008-11-29
+74,Pierre Moukala,Particulier,Retail,Salarié du secteur public,Hors groupe,7,B,2015-08-18
+75,Nadège Tagne,Particulier,Retail,Commerçant / indépendant,Hors groupe,17,B,2011-06-24
+76,Donatien Ondo,Particulier,Retail,Salarié du secteur privé,Hors groupe,33,C,2009-04-09
+77,Clarisse Nguema Ayingono,Particulier,Retail,Salarié du secteur public,Hors groupe,2,C,2010-12-13
+78,Chantal Ndongo,Particulier,Retail,Commerçant / indépendant,Hors groupe,33,B,2022-06-05
+79,Alain Massamba,Particulier,Retail,Profession libérale,Hors groupe,10,C,2013-07-22
+80,Guy Ouaddaï,Particulier,Retail,Commerçant / indépendant,Hors groupe,3,A,2008-12-04
+81,Boris Massamba,Particulier,Retail,Salarié du secteur public,Hors groupe,8,B,2010-08-23
+82,Hervé Nkoulou,Particulier,Retail,Profession libérale,Hors groupe,27,B,2017-10-11
+83,Ismaël Zoungrana,Particulier,Retail,Salarié du secteur public,Hors groupe,24,B,2014-01-01
+84,Josiane Ouaddaï,Particulier,Retail,Commerçant / indépendant,Hors groupe,12,C,2008-02-20
+85,Olive Nguema,Particulier,Retail,Profession libérale,Hors groupe,18,C,2014-06-18
+86,Thierry Djoumessi,Particulier,Retail,Salarié du secteur privé,Hors groupe,1,C,2022-11-21
+87,Boris Nkoulou,Particulier,Retail,Commerçant / indépendant,Hors groupe,4,B,2008-08-12
+88,Arnaud Bokassa-Ngaïssona,Particulier,Retail,Salarié du secteur public,Hors groupe,13,B,2021-10-22
+89,Nestor Owona,Particulier,Retail,Salarié du secteur public,Hors groupe,8,D,2020-02-22
+90,Flore Tagne,Particulier,Retail,Salarié du secteur privé,Hors groupe,19,A,2015-10-01
+91,Ismaël Nkoulou,Particulier,Retail,Salarié du secteur public,Hors groupe,16,C,2017-11-01
+92,Franck Mbarga,Particulier,Retail,Salarié du secteur public,Hors groupe,15,B,2019-12-12
+93,Carine Kenfack,Particulier,Retail,Salarié du secteur privé,Hors groupe,16,C,2023-06-01
+94,Olive Nzamba,Particulier,Retail,Salarié du secteur privé,Hors groupe,35,D,2017-03-19
+95,Mariam Nguema Ayingono,Particulier,Retail,Salarié du secteur public,Hors groupe,3,C,2024-02-15
+96,Jean Tchoumi,Particulier,Retail,Commerçant / indépendant,Hors groupe,36,C,2024-09-07
+97,Arnaud Ouaddaï,Particulier,Retail,Salarié du secteur public,Hors groupe,7,A,2023-12-08
+98,Landry Owona,Particulier,Retail,Profession libérale,Hors groupe,39,B,2009-10-29
+99,Cyrille Eyenga,Particulier,Retail,Commerçant / indépendant,Hors groupe,10,B,2011-08-01
+100,Fatimé Ndongo,Particulier,Retail,Salarié du secteur public,Hors groupe,15,C,2023-03-03
+101,Nestor Essomba,Particulier,Retail,Salarié du secteur privé,Hors groupe,8,B,2013-09-28
+102,Thierry Bokassa-Ngaïssona,Particulier,Retail,Salarié du secteur privé,Hors groupe,15,D,2020-01-08
+103,Cyrille Bokassa-Ngaïssona,Particulier,Retail,Salarié du secteur public,Hors groupe,25,B,2021-08-26
+104,Fatimé Bokassa-Ngaïssona,Particulier,Retail,Salarié du secteur privé,Hors groupe,38,B,2020-08-26
+105,Franck Nguema,Particulier,Retail,Salarié du secteur privé,Hors groupe,19,C,2018-09-09
+106,Clarisse Ondo,Particulier,Retail,Salarié du secteur privé,Hors groupe,34,D,2012-06-24
+107,Chantal Zoungrana,Particulier,Retail,Commerçant / indépendant,Hors groupe,33,A,2020-05-26
+108,Patrick Ondo,Particulier,Retail,Profession libérale,Hors groupe,24,D,2012-09-27
+109,Landry Esono,Particulier,Retail,Commerçant / indépendant,Hors groupe,8,A,2012-01-22
+110,Carine Nguema,Particulier,Retail,Salarié du secteur public,Hors groupe,21,C,2016-06-27
+111,Aïcha Owona,Particulier,Retail,Salarié du secteur public,Hors groupe,16,C,2021-05-30
+112,Paul Ngoma,Particulier,Retail,Commerçant / indépendant,Hors groupe,29,C,2016-10-11
+113,Jean Nguema Ayingono,Particulier,Retail,Salarié du secteur public,Hors groupe,30,C,2021-10-14
+114,Aïcha Fotso,Particulier,Retail,Commerçant / indépendant,Hors groupe,31,C,2017-04-17
+115,Guy Massamba,Particulier,Retail,Salarié du secteur public,Hors groupe,22,C,2017-02-02
+116,Clarisse Eyenga,Particulier,Retail,Salarié du secteur public,Hors groupe,31,C,2015-10-23
+117,Serge Obiang,Particulier,Retail,Salarié du secteur public,Hors groupe,3,B,2020-02-07
+118,Sandrine Kenfack,Particulier,Retail,Salarié du secteur privé,Hors groupe,30,D,2018-02-16
+119,Blaise Tchoumi,Particulier,Retail,Salarié du secteur public,Hors groupe,8,C,2022-02-16
+120,Guy Zoungrana,Particulier,Retail,Commerçant / indépendant,Hors groupe,23,D,2008-03-04
+121,Danielle Bokassa-Ngaïssona,Particulier,Retail,Salarié du secteur public,Hors groupe,25,D,2013-08-08
+122,Sandrine Tagne,Particulier,Retail,Salarié du secteur privé,Hors groupe,20,C,2024-11-10
+123,Rodrigue Kenfack,Particulier,Retail,Salarié du secteur public,Hors groupe,37,E,2020-01-01
+124,Mahamat Kamga,Particulier,Retail,Salarié du secteur privé,Hors groupe,29,C,2021-08-10
+125,Prisca Massamba,Particulier,Retail,Commerçant / indépendant,Hors groupe,7,E,2016-01-02
+126,Blaise Tchoumi,Particulier,Retail,Salarié du secteur privé,Hors groupe,8,C,2008-09-25
+127,Christian Fotso,Particulier,Retail,Salarié du secteur privé,Hors groupe,15,D,2016-12-16
+128,Fatimé Abdoulaye,Particulier,Retail,Salarié du secteur public,Hors groupe,14,B,2011-03-12
+129,Aïcha Kenfack,Particulier,Retail,Salarié du secteur public,Hors groupe,5,C,2018-08-12
+130,Paul Zoungrana,Particulier,Retail,Salarié du secteur privé,Hors groupe,40,A,2019-10-30
+131,Blaise Tchoumi,Particulier,Retail,Salarié du secteur public,Hors groupe,12,C,2010-10-21
+132,Danielle Fotso,Particulier,Retail,Salarié du secteur privé,Hors groupe,15,B,2020-07-06
+133,Rodrigue Tchoumi,Particulier,Retail,Salarié du secteur public,Hors groupe,20,D,2012-11-09
+134,Landry Eyenga,Particulier,Retail,Salarié du secteur public,Hors groupe,23,C,2010-04-27
+135,Chantal Haroun,Particulier,Retail,Salarié du secteur privé,Hors groupe,5,A,2024-03-06
+136,Michel Biyik,Particulier,Retail,Salarié du secteur public,Hors groupe,6,B,2022-09-28
+137,Serge Tchoumi,Particulier,Retail,Salarié du secteur privé,Hors groupe,10,C,2012-12-23
+138,Cyrille Haroun,Particulier,Retail,Profession libérale,Hors groupe,6,B,2013-11-03
+139,Abakar Tchoumi,Particulier,Retail,Salarié du secteur public,Hors groupe,10,B,2024-02-29
+140,Donatien Ndongo,Particulier,Retail,Salarié du secteur privé,Hors groupe,40,D,2011-04-24
+141,Ismaël Mangue,Particulier,Retail,Salarié du secteur privé,Hors groupe,4,A,2024-08-01
+142,Alain Mbarga,Particulier,Retail,Salarié du secteur public,Hors groupe,11,C,2017-12-17
+143,Arnaud Djoumessi,Particulier,Retail,Salarié du secteur public,Hors groupe,24,D,2020-02-27
+144,Jean Ebanga,Particulier,Retail,Salarié du secteur privé,Hors groupe,9,C,2023-01-24
+145,Emmanuel Nguema,Particulier,Retail,Salarié du secteur public,Hors groupe,32,C,2018-11-08
+146,Franck Ebanga,Particulier,Retail,Salarié du secteur public,Hors groupe,24,B,2016-12-20
+147,Prisca Tchoumi,Particulier,Retail,Commerçant / indépendant,Hors groupe,3,E,2011-06-19
+148,Clarisse Atangana,Particulier,Retail,Salarié du secteur public,Hors groupe,26,B,2021-01-06
+149,Chantal Nguema Ayingono,Particulier,Retail,Salarié du secteur privé,Hors groupe,1,B,2018-08-24
+150,Olive Ouaddaï,Particulier,Retail,Salarié du secteur public,Hors groupe,38,D,2019-02-08
+151,Estelle Gbadamassi,Particulier,Retail,Salarié du secteur public,Hors groupe,31,C,2010-03-23
+152,Franck Ondo,Particulier,Retail,Salarié du secteur privé,Hors groupe,26,B,2013-03-30
+153,Rodrigue Tchoumi,Particulier,Retail,Salarié du secteur privé,Hors groupe,5,D,2020-10-28
+154,Donatien Deby,Particulier,Retail,Salarié du secteur public,Hors groupe,30,B,2016-05-01
+155,Landry Tchoumi,Particulier,Retail,Salarié du secteur public,Hors groupe,11,D,2019-08-25
+156,Prisca Nono,Particulier,Retail,Salarié du secteur public,Hors groupe,25,C,2015-05-27
+157,Cyrille Abdoulaye,Particulier,Retail,Salarié du secteur public,Hors groupe,18,B,2017-06-07
+158,Jean Fotso,Particulier,Retail,Profession libérale,Hors groupe,14,B,2015-11-24
+159,Pierre Esono,Particulier,Retail,Salarié du secteur privé,Hors groupe,31,C,2008-03-17
+160,Mahamat Atangana,Particulier,Retail,Salarié du secteur public,Hors groupe,22,D,2016-04-18
+161,Boris Biyik,Particulier,Retail,Salarié du secteur privé,Hors groupe,22,B,2017-09-16
+162,Emmanuel Owona,Particulier,Retail,Profession libérale,Hors groupe,10,A,2021-02-16
+163,Franck Nzamba,Particulier,Retail,Salarié du secteur privé,Hors groupe,21,B,2023-12-26
+164,Pélagie Moukala,Particulier,Retail,Salarié du secteur public,Hors groupe,21,B,2019-11-24
+165,Josiane Kamga,Particulier,Retail,Profession libérale,Hors groupe,36,D,2019-08-04
+166,Prisca Ebanga,Particulier,Retail,Salarié du secteur public,Hors groupe,21,C,2014-07-13
+167,Fatimé Kenfack,Particulier,Retail,Salarié du secteur public,Hors groupe,24,C,2021-07-30
+168,Abakar Essomba,Particulier,Retail,Salarié du secteur public,Hors groupe,27,B,2018-05-18
+169,Boris Mbarga,Particulier,Retail,Salarié du secteur public,Hors groupe,35,C,2020-08-02
+170,Pierre Tagne,Particulier,Retail,Commerçant / indépendant,Hors groupe,39,B,2009-07-18
+171,Serge Ngoma,Particulier,Retail,Salarié du secteur privé,Hors groupe,7,D,2010-12-18
+172,Arnaud Ndongo,Particulier,Retail,Salarié du secteur privé,Hors groupe,1,B,2021-07-20
+173,Patrick Biyik,Particulier,Retail,Commerçant / indépendant,Hors groupe,32,D,2015-02-18
+174,Pierre Haroun,Particulier,Retail,Commerçant / indépendant,Hors groupe,39,C,2017-10-09
+175,Michel Mangue,Particulier,Retail,Commerçant / indépendant,Hors groupe,10,C,2015-12-28
+176,Michel Nkoulou,Particulier,Retail,Salarié du secteur privé,Hors groupe,40,C,2008-10-24
+177,Prisca Deby,Particulier,Retail,Salarié du secteur public,Hors groupe,26,C,2016-06-29
+178,Rodrigue Nguema,Particulier,Retail,Salarié du secteur privé,Hors groupe,3,E,2023-04-23
+179,Michel Owona,Particulier,Retail,Commerçant / indépendant,Hors groupe,15,D,2014-03-06
+180,Cyrille Nguema,Particulier,Retail,Salarié du secteur privé,Hors groupe,31,D,2020-10-16
+181,Chantal Esono,Particulier,Retail,Salarié du secteur public,Hors groupe,25,B,2010-03-10
+182,Christian Biyik,Particulier,Retail,Salarié du secteur privé,Hors groupe,37,C,2016-06-23
+183,Aïcha Ouaddaï,Particulier,Retail,Commerçant / indépendant,Hors groupe,8,D,2020-12-30
+184,Aïcha Haroun,Particulier,Retail,Salarié du secteur public,Hors groupe,37,B,2008-04-12
+185,Blaise Tchoumi,Particulier,Retail,Salarié du secteur privé,Hors groupe,13,A,2021-07-26
+186,Ismaël Abdoulaye,Particulier,Retail,Commerçant / indépendant,Hors groupe,37,B,2021-03-21
+187,Jean Ebanga,Particulier,Retail,Salarié du secteur public,Hors groupe,19,B,2019-12-19
+188,Guy Ngoma,Particulier,Retail,Salarié du secteur privé,Hors groupe,13,C,2010-01-11
+189,Mahamat Mangue,Particulier,Retail,Salarié du secteur public,Hors groupe,11,C,2014-09-08
+190,Laure Owona,Particulier,Retail,Salarié du secteur privé,Hors groupe,24,C,2014-09-12
+191,Emmanuel Ouaddaï,Particulier,Retail,Salarié du secteur privé,Hors groupe,13,C,2024-08-21
+192,Sandrine Owona,Particulier,Retail,Commerçant / indépendant,Hors groupe,23,C,2011-12-18
+193,Clarisse Ebanga,Particulier,Retail,Salarié du secteur public,Hors groupe,24,C,2011-08-16
+194,Guy Essomba,Particulier,Retail,Profession libérale,Hors groupe,9,D,2009-03-20
+195,Josiane Zoungrana,Particulier,Retail,Salarié du secteur public,Hors groupe,38,A,2017-12-31
+196,Ludovic Bokassa-Ngaïssona,Particulier,Retail,Commerçant / indépendant,Hors groupe,14,C,2009-01-11
+197,Sandrine Haroun,Particulier,Retail,Commerçant / indépendant,Hors groupe,23,B,2019-05-05
+198,Paul Moukala,Particulier,Retail,Salarié du secteur privé,Hors groupe,31,D,2008-10-17
+199,Laure Eyenga,Particulier,Retail,Salarié du secteur public,Hors groupe,17,B,2022-02-02
+200,Mahamat Deby,Particulier,Retail,Salarié du secteur public,Hors groupe,2,B,2017-06-23
+201,Ismaël Fotso,Particulier,Retail,Salarié du secteur privé,Hors groupe,15,C,2014-06-28
+202,Blaise Biyik,Particulier,Retail,Salarié du secteur public,Hors groupe,26,A,2020-04-06
+203,Cyrille Deby,Particulier,Retail,Commerçant / indépendant,Hors groupe,18,D,2015-06-27
+204,Emmanuel Ouaddaï,Particulier,Retail,Salarié du secteur public,Hors groupe,29,B,2008-03-21
+205,Arnaud Nono,Particulier,Retail,Salarié du secteur public,Hors groupe,34,C,2009-11-14
+206,Abakar Moukala,Particulier,Retail,Salarié du secteur public,Hors groupe,16,D,2023-06-20
+207,Nadège Massamba,Particulier,Retail,Profession libérale,Hors groupe,24,C,2021-07-13
+208,Michel Esono,Particulier,Retail,Salarié du secteur privé,Hors groupe,25,D,2023-12-14
+209,Christian Nono,Particulier,Retail,Profession libérale,Hors groupe,6,E,2014-03-15
+210,Guy Haroun,Particulier,Retail,Salarié du secteur public,Hors groupe,28,C,2013-08-27
+211,Emmanuel Ebanga,Particulier,Retail,Salarié du secteur privé,Hors groupe,10,C,2024-03-27
+212,Hervé Kenfack,Particulier,Retail,Salarié du secteur privé,Hors groupe,7,E,2024-10-21
+213,Marie Ebanga,Particulier,Retail,Salarié du secteur public,Hors groupe,27,C,2024-06-14
+214,Pierre Owona,Particulier,Retail,Salarié du secteur privé,Hors groupe,39,B,2009-10-16
+215,Franck Tchoumi,Particulier,Retail,Salarié du secteur privé,Hors groupe,6,C,2011-05-18
+216,Estelle Essomba,Particulier,Retail,Profession libérale,Hors groupe,7,B,2017-10-12
+217,Franck Massamba,Particulier,Retail,Salarié du secteur public,Hors groupe,15,E,2019-03-14
+218,Hervé Kamga,Particulier,Retail,Salarié du secteur public,Hors groupe,1,C,2010-10-23
+219,Chantal Biyik,Particulier,Retail,Salarié du secteur privé,Hors groupe,5,C,2013-09-30
+220,Paul Haroun,Particulier,Retail,Commerçant / indépendant,Hors groupe,32,E,2015-11-27
+221,Danielle Essomba,Particulier,Retail,Salarié du secteur privé,Hors groupe,22,C,2016-11-18
+222,Josiane Moukala,Particulier,Retail,Salarié du secteur public,Hors groupe,19,B,2008-02-11
+223,Chantal Nono,Particulier,Retail,Salarié du secteur public,Hors groupe,28,C,2022-09-24
+224,Thierry Bokassa-Ngaïssona,Particulier,Retail,Salarié du secteur public,Hors groupe,8,B,2010-01-17
+225,Hervé Zoungrana,Particulier,Retail,Profession libérale,Hors groupe,3,A,2024-10-06
+226,Ismaël Biyik,Particulier,Retail,Salarié du secteur privé,Hors groupe,3,E,2012-03-31
+227,Ludovic Deby,Particulier,Retail,Salarié du secteur public,Hors groupe,14,B,2015-07-12
+228,Brigitte Bokassa-Ngaïssona,Particulier,Retail,Commerçant / indépendant,Hors groupe,4,B,2023-02-19
+229,Landry Nkoulou,Particulier,Retail,Profession libérale,Hors groupe,5,C,2024-10-16
+230,Prisca Ngoma,Particulier,Retail,Salarié du secteur public,Hors groupe,39,D,2023-04-22
+231,Pierre Massamba,Particulier,Retail,Salarié du secteur privé,Hors groupe,14,C,2023-03-01
+232,Ginette Kamga,Particulier,Retail,Salarié du secteur public,Hors groupe,39,A,2015-05-26
+233,Pélagie Massamba,Particulier,Retail,Salarié du secteur public,Hors groupe,5,B,2024-08-27
+234,Patrick Eyenga,Particulier,Retail,Profession libérale,Hors groupe,19,C,2014-07-04
+235,Franck Bokassa-Ngaïssona,Particulier,Retail,Salarié du secteur public,Hors groupe,30,A,2015-02-06
+236,Ginette Nkoulou,Particulier,Retail,Salarié du secteur public,Hors groupe,21,C,2018-02-18
+237,Sandrine Bokassa-Ngaïssona,Particulier,Retail,Salarié du secteur public,Hors groupe,4,B,2017-05-13
+238,Josiane Ndongo,Particulier,Retail,Salarié du secteur public,Hors groupe,8,B,2019-08-01
+239,Christelle Tchoumi,Particulier,Retail,Salarié du secteur privé,Hors groupe,14,A,2020-08-25
+240,Christian Zoungrana,Particulier,Retail,Salarié du secteur privé,Hors groupe,13,D,2012-07-25
+241,Prisca Massamba,Particulier,Retail,Salarié du secteur privé,Hors groupe,40,B,2019-11-08
+242,Fatimé Ondo,Particulier,Retail,Salarié du secteur public,Hors groupe,32,C,2010-08-22
+243,Laure Bokassa-Ngaïssona,Particulier,Retail,Salarié du secteur public,Hors groupe,5,C,2013-04-28
+244,Arnaud Ouaddaï,Particulier,Retail,Salarié du secteur public,Hors groupe,23,C,2019-10-26
+245,Rodrigue Biyik,Particulier,Retail,Profession libérale,Hors groupe,8,B,2023-12-27
+246,Blaise Tchoumi,Particulier,Retail,Profession libérale,Hors groupe,34,D,2008-03-11
+247,Estelle Ouaddaï,Particulier,Retail,Salarié du secteur privé,Hors groupe,4,C,2024-02-27
+248,Brigitte Atangana,Particulier,Retail,Salarié du secteur public,Hors groupe,39,D,2019-11-05
+249,Pierre Essomba,Particulier,Retail,Commerçant / indépendant,Hors groupe,31,C,2015-11-06
+250,Ismaël Mbarga,Particulier,Retail,Salarié du secteur public,Hors groupe,29,C,2012-01-07
+251,Danielle Mbarga,Particulier,Retail,Profession libérale,Hors groupe,40,C,2009-07-23
+252,Rodrigue Nono,Particulier,Retail,Salarié du secteur privé,Hors groupe,36,C,2022-09-29
+253,Olive Zoungrana,Particulier,Retail,Salarié du secteur public,Hors groupe,5,D,2016-03-28
+254,Olive Nkoulou,Particulier,Retail,Salarié du secteur public,Hors groupe,11,A,2017-11-30
+255,Josiane Nzamba,Particulier,Retail,Profession libérale,Hors groupe,13,B,2020-12-14
+256,Estelle Ndongo,Particulier,Retail,Salarié du secteur public,Hors groupe,15,B,2019-04-29
+257,Mariam Ngoma,Particulier,Retail,Profession libérale,Hors groupe,19,C,2021-02-16
+258,Arnaud Bokassa-Ngaïssona,Particulier,Retail,Salarié du secteur public,Hors groupe,26,B,2013-11-26
+259,Emmanuel Eyenga,Particulier,Retail,Salarié du secteur public,Hors groupe,28,B,2021-05-12
+260,Blaise Tchoumi,Particulier,Retail,Salarié du secteur privé,Hors groupe,10,D,2023-10-01
+261,Mariam Gbadamassi,Particulier,Retail,Salarié du secteur privé,Hors groupe,12,D,2013-12-08
+262,Thierry Atangana,Particulier,Retail,Salarié du secteur public,Hors groupe,38,C,2009-10-07
+263,Patrick Biyik,Particulier,Retail,Salarié du secteur privé,Hors groupe,37,B,2014-10-13
+264,Nadège Nguema,Particulier,Retail,Salarié du secteur public,Hors groupe,21,D,2011-06-18
+265,Abakar Eyenga,Particulier,Retail,Salarié du secteur privé,Hors groupe,20,D,2014-11-10
+266,Mariam Ngoma,Particulier,Retail,Commerçant / indépendant,Hors groupe,33,B,2022-04-09
+267,Boris Mbarga,Particulier,Retail,Salarié du secteur public,Hors groupe,1,A,2023-12-21
+268,Emmanuel Esono,Particulier,Retail,Salarié du secteur public,Hors groupe,23,C,2021-04-13
+269,Sandrine Ndongo,Particulier,Retail,Salarié du secteur privé,Hors groupe,13,E,2013-11-15
+270,Serge Mbarga,Particulier,Retail,Salarié du secteur public,Hors groupe,25,A,2021-09-14
+271,Estelle Nono,Particulier,Retail,Profession libérale,Hors groupe,40,B,2009-10-17
+272,Flore Owona,Particulier,Retail,Salarié du secteur public,Hors groupe,35,B,2019-06-28
+273,Cyrille Mbarga,Particulier,Retail,Salarié du secteur public,Hors groupe,29,C,2014-02-04
+274,Patrick Gbadamassi,Particulier,Retail,Profession libérale,Hors groupe,25,D,2015-06-21
+275,Rodrigue Biyik,Particulier,Retail,Salarié du secteur public,Hors groupe,22,B,2013-09-04
+276,Carine Tagne,Particulier,Retail,Salarié du secteur privé,Hors groupe,21,C,2012-05-20
+277,Mariam Owona,Particulier,Retail,Salarié du secteur privé,Hors groupe,4,D,2023-11-05
+278,Ginette Bokassa-Ngaïssona,Particulier,Retail,Salarié du secteur public,Hors groupe,19,B,2011-03-17
+279,Pélagie Owona,Particulier,Retail,Commerçant / indépendant,Hors groupe,20,E,2010-07-12
+280,Clarisse Ngoma,Particulier,Retail,Salarié du secteur public,Hors groupe,39,D,2009-03-25
+281,Christelle Zoungrana,Particulier,Retail,Salarié du secteur privé,Hors groupe,22,B,2017-09-07
+282,Danielle Mbarga,Particulier,Retail,Commerçant / indépendant,Hors groupe,30,B,2013-02-16
+283,Cyrille Nguema Ayingono,Particulier,Retail,Salarié du secteur privé,Hors groupe,7,D,2023-06-11
+284,Josiane Eyenga,Particulier,Retail,Salarié du secteur privé,Hors groupe,28,A,2020-02-13
+285,Landry Tchoumi,Particulier,Retail,Salarié du secteur privé,Hors groupe,16,B,2024-05-03
+286,Aïcha Ouaddaï,Particulier,Retail,Commerçant / indépendant,Hors groupe,31,C,2020-03-02
+287,Alain Nzamba,Particulier,Retail,Commerçant / indépendant,Hors groupe,29,C,2024-05-15
+288,Thierry Biyik,Particulier,Retail,Salarié du secteur privé,Hors groupe,11,B,2013-02-24
+289,Brigitte Djoumessi,Particulier,Retail,Salarié du secteur privé,Hors groupe,4,B,2016-07-05
+290,Nestor Tchoumi,Particulier,Retail,Salarié du secteur public,Hors groupe,8,C,2009-04-07
+291,Donatien Ouaddaï,Particulier,Retail,Salarié du secteur privé,Hors groupe,19,C,2009-08-19
+292,Mariam Biyik,Particulier,Retail,Salarié du secteur privé,Hors groupe,17,C,2017-09-06
+293,Nestor Obiang,Particulier,Retail,Salarié du secteur public,Hors groupe,10,A,2015-04-19
+294,Brigitte Ouaddaï,Particulier,Retail,Salarié du secteur public,Hors groupe,10,D,2009-04-09
+295,Donatien Eyenga,Particulier,Retail,Commerçant / indépendant,Hors groupe,6,B,2014-11-29
+296,Josiane Eyenga,Particulier,Retail,Salarié du secteur privé,Hors groupe,16,D,2009-06-07
+297,Nadège Nkoulou,Particulier,Retail,Salarié du secteur public,Hors groupe,7,C,2012-09-21
+298,Sandrine Nkoulou,Particulier,Retail,Salarié du secteur public,Hors groupe,7,C,2024-01-18
+299,Nestor Ngoma,Particulier,Retail,Salarié du secteur public,Hors groupe,1,A,2018-04-03
+300,Blaise Mba,Particulier,Retail,Salarié du secteur privé,Hors groupe,8,C,2013-04-25
+301,Pélagie Djoumessi,Particulier,Retail,Salarié du secteur privé,Hors groupe,32,D,2017-11-07
+302,Abakar Tchoumi,Particulier,Retail,Commerçant / indépendant,Hors groupe,7,A,2017-10-11
+303,Cyrille Nguema,Particulier,Retail,Salarié du secteur privé,Hors groupe,21,C,2023-07-17
+304,Danielle Fotso,Particulier,Retail,Salarié du secteur public,Hors groupe,5,C,2017-09-02
+305,Cyrille Nguema,Particulier,Retail,Salarié du secteur privé,Hors groupe,11,C,2014-02-19
+306,Jean Massamba,Particulier,Retail,Commerçant / indépendant,Hors groupe,15,C,2020-02-07
+307,Marie Tagne,Particulier,Retail,Salarié du secteur privé,Hors groupe,16,B,2016-11-22
+308,Sandrine Kamga,Particulier,Retail,Salarié du secteur public,Hors groupe,1,B,2022-01-20
+309,Alain Mbarga,Particulier,Retail,Salarié du secteur privé,Hors groupe,40,C,2022-05-08
+310,Nadège Ndongo,Particulier,Retail,Salarié du secteur privé,Hors groupe,32,B,2013-10-08
+311,Pélagie Mbarga,Particulier,Retail,Profession libérale,Hors groupe,10,C,2017-09-05
+312,Nadège Essomba,Particulier,Retail,Salarié du secteur privé,Hors groupe,1,C,2014-01-20
+313,Rodrigue Moukala,Particulier,Retail,Commerçant / indépendant,Hors groupe,21,C,2023-09-11
+314,Prisca Esono,Particulier,Retail,Salarié du secteur privé,Hors groupe,6,D,2018-11-29
+315,Jean Kamga,Particulier,Retail,Salarié du secteur privé,Hors groupe,27,E,2010-11-11
+316,Nestor Mangue,Particulier,Retail,Salarié du secteur privé,Hors groupe,26,C,2008-12-16
+317,Serge Moukala,Particulier,Retail,Profession libérale,Hors groupe,14,B,2020-08-17
+318,Franck Kenfack,Particulier,Retail,Profession libérale,Hors groupe,5,C,2014-02-15
+319,Fatimé Deby,Particulier,Retail,Salarié du secteur public,Hors groupe,27,B,2023-10-10
+320,Thierry Mba,Particulier,Retail,Salarié du secteur public,Hors groupe,31,D,2011-04-02
+321,Pierre Mba,Particulier,Retail,Salarié du secteur public,Hors groupe,38,C,2024-03-17
+322,Arnaud Mangue,Particulier,Retail,Commerçant / indépendant,Hors groupe,1,D,2016-08-19
+323,Blaise Owona,Particulier,Retail,Profession libérale,Hors groupe,38,C,2012-07-13
+324,Jean Kenfack,Particulier,Retail,Salarié du secteur privé,Hors groupe,28,C,2022-07-25
+325,Aïcha Ebanga,Particulier,Retail,Salarié du secteur public,Hors groupe,5,E,2019-03-12
+326,Pierre Kamga,Particulier,Retail,Salarié du secteur privé,Hors groupe,30,B,2018-10-18
+327,Christelle Ebanga,Particulier,Retail,Salarié du secteur privé,Hors groupe,29,D,2024-02-16
+328,Christian Ebanga,Particulier,Retail,Commerçant / indépendant,Hors groupe,34,C,2024-12-01
+329,Donatien Ngoma,Particulier,Retail,Salarié du secteur privé,Hors groupe,13,A,2022-11-01
+330,Pierre Ouaddaï,Particulier,Retail,Profession libérale,Hors groupe,31,D,2023-07-20
+331,SAS Sanaga Energie,PME,PME,Énergie & Eau,Hors groupe,27,B,2024-03-12
+332,SARL Cemac Santé,PME,PME,Santé & Pharmacie,Hors groupe,30,C,2010-03-02
+333,SAS Atlantique Agro,PME,PME,Agro-industrie,Hors groupe,28,C,2023-08-20
+334,SAS Mpoko Agro,PME,PME,Agro-industrie,Hors groupe,16,D,2019-08-20
+335,SARL Sahel Négoce,PME,PME,Commerce & Distribution,Hors groupe,6,E,2020-08-29
+336,SA Nyong Energy Services,PME,PME,"Pétrole, Gaz & Services",Groupe Chari Agro,3,D,2020-11-30
+337,SARL Nyong Mining,PME,PME,Mines,Hors groupe,8,D,2011-04-18
+338,SA Mpoko Construction,PME,PME,BTP & Immobilier,Hors groupe,2,D,2012-09-25
+339,SA Mayombe Transport,PME,PME,Transport & Logistique,Hors groupe,37,D,2023-11-21
+340,SAS Chari Agro,PME,PME,Agro-industrie,Hors groupe,21,C,2014-02-04
+341,SAS Atlantique Agro,PME,PME,Agro-industrie,Hors groupe,26,A,2008-12-05
+342,SARL Mayombe Digital,PME,PME,Télécommunications & IT,Hors groupe,1,C,2011-10-08
+343,SAS Mpoko Transport,PME,PME,Transport & Logistique,Hors groupe,37,C,2010-09-18
+344,SAS Congo Basin Agro,PME,PME,Agro-industrie,Hors groupe,35,A,2021-11-11
+345,Ets Mpoko Construction,PME,PME,BTP & Immobilier,Hors groupe,11,E,2024-11-08
+346,SAS Kilimandjaro Energie,PME,PME,Énergie & Eau,Hors groupe,35,D,2011-10-10
+347,Ets Sahel Conseil,PME,PME,Services aux entreprises,Hors groupe,15,D,2014-06-19
+348,Ets Tropic Digital,PME,PME,Télécommunications & IT,Hors groupe,10,D,2018-10-23
+349,SARL Logone Energie,PME,PME,Énergie & Eau,Hors groupe,28,D,2019-07-14
+350,Ets Logone Energy Services,PME,PME,"Pétrole, Gaz & Services",Hors groupe,23,B,2017-09-17
+351,SARL Afrique Centrale Conseil,PME,PME,Services aux entreprises,Hors groupe,21,D,2022-01-10
+352,Ets Nyong Agro,PME,PME,Agro-industrie,Groupe Sanaga Industries,22,B,2019-02-11
+353,SARL Atlantique Bois,PME,PME,Bois & Forêt,Hors groupe,26,A,2015-11-04
+354,SA Kilimandjaro Mining,PME,PME,Mines,Hors groupe,30,E,2008-02-24
+355,SA Atlantique Digital,PME,PME,Télécommunications & IT,Hors groupe,31,D,2013-06-08
+356,SA Equatoria Construction,PME,PME,BTP & Immobilier,Hors groupe,10,C,2012-07-16
+357,SAS Ntem Construction,PME,PME,BTP & Immobilier,Groupe Chari Agro,6,D,2020-04-10
+358,Ets Tropic Agro,PME,PME,Agro-industrie,Groupe Mayombe Invest,38,C,2012-09-17
+359,SAS Cemac Agro,PME,PME,Agro-industrie,Hors groupe,19,D,2018-06-09
+360,Ets Mpoko Energy Services,PME,PME,"Pétrole, Gaz & Services",Hors groupe,20,D,2010-07-12
+361,SAS Kilimandjaro Négoce,PME,PME,Commerce & Distribution,Hors groupe,25,E,2022-03-12
+362,SA Kilimandjaro Négoce,PME,PME,Commerce & Distribution,Hors groupe,28,B,2024-02-27
+363,SAS Chari Digital,PME,PME,Télécommunications & IT,Hors groupe,1,B,2010-10-01
+364,SA Equatoria Conseil,PME,PME,Services aux entreprises,Hors groupe,28,C,2020-07-03
+365,SA Congo Basin Construction,PME,PME,BTP & Immobilier,Hors groupe,26,C,2012-08-23
+366,SA Congo Basin Energie,PME,PME,Énergie & Eau,Hors groupe,1,D,2021-01-11
+367,Ets Sanaga Agro,PME,PME,Agro-industrie,Hors groupe,22,C,2014-07-30
+368,SARL Ntem Bois,PME,PME,Bois & Forêt,Hors groupe,18,B,2014-03-20
+369,Ets Mayombe Agro,PME,PME,Agro-industrie,Hors groupe,20,B,2010-04-28
+370,SA Sanaga Digital,PME,PME,Télécommunications & IT,Hors groupe,12,B,2009-12-31
+371,SARL Logone Santé,PME,PME,Santé & Pharmacie,Hors groupe,1,D,2015-06-11
+372,SA Wouri Agro,PME,PME,Agro-industrie,Hors groupe,14,C,2021-01-05
+373,Ets Atlantique Négoce,PME,PME,Commerce & Distribution,Hors groupe,24,D,2017-07-26
+374,SARL Ntem Digital,PME,PME,Télécommunications & IT,Hors groupe,39,B,2024-06-21
+375,SAS Afrique Centrale Agro,PME,PME,Agro-industrie,Hors groupe,15,C,2013-01-14
+376,SAS Tropic Santé,PME,PME,Santé & Pharmacie,Hors groupe,1,C,2016-04-16
+377,Ets Logone Energie,PME,PME,Énergie & Eau,Hors groupe,7,C,2022-03-03
+378,SAS Mpoko Digital,PME,PME,Télécommunications & IT,Hors groupe,12,B,2019-09-20
+379,Ets Mayombe Energy Services,PME,PME,"Pétrole, Gaz & Services",Groupe Mayombe Invest,5,E,2011-05-24
+380,Ets Lobé Digital,PME,PME,Télécommunications & IT,Hors groupe,1,B,2023-03-16
+381,SAS Cemac Construction,PME,PME,BTP & Immobilier,Hors groupe,5,E,2011-01-05
+382,Ets Oubangui Agro,PME,PME,Agro-industrie,Hors groupe,31,E,2011-05-05
+383,SARL Atlantique Négoce,PME,PME,Commerce & Distribution,Hors groupe,9,C,2015-11-15
+384,SA Sahel Agro,PME,PME,Agro-industrie,Hors groupe,4,C,2018-06-05
+385,SAS Sahel Conseil,PME,PME,Services aux entreprises,Hors groupe,16,E,2021-12-08
+386,SARL Afrique Centrale Transport,PME,PME,Transport & Logistique,Hors groupe,32,C,2019-07-25
+387,SAS Wouri Conseil,PME,PME,Services aux entreprises,Hors groupe,37,B,2021-02-01
+388,SAS Lobé Transport,PME,PME,Transport & Logistique,Hors groupe,17,B,2019-12-06
+389,SAS Nyong Conseil,PME,PME,Services aux entreprises,Hors groupe,30,E,2012-05-30
+390,SA Mayombe Agro,PME,PME,Agro-industrie,Hors groupe,13,A,2013-06-03
+391,Ets Equatoria Energy Services,PME,PME,"Pétrole, Gaz & Services",Groupe Cemac Resources,35,E,2014-05-12
+392,Ets Congo Basin Conseil,PME,PME,Services aux entreprises,Hors groupe,2,E,2023-12-27
+393,SARL Equatoria Digital,PME,PME,Télécommunications & IT,Hors groupe,31,E,2010-05-20
+394,SAS Congo Basin Agro,PME,PME,Agro-industrie,Hors groupe,10,C,2019-09-12
+395,SAS Logone Négoce,PME,PME,Commerce & Distribution,Hors groupe,1,C,2016-03-07
+396,Ets Lobé Energy Services,PME,PME,"Pétrole, Gaz & Services",Groupe Equatoria Holding,34,C,2010-03-25
+397,SARL Afrique Centrale Construction,PME,PME,BTP & Immobilier,Hors groupe,24,B,2014-03-03
+398,SAS Atlantique Digital,PME,PME,Télécommunications & IT,Hors groupe,4,B,2014-11-22
+399,SAS Mayombe Energie,PME,PME,Énergie & Eau,Groupe Mayombe Invest,28,C,2014-06-21
+400,SA Sanaga Mining,PME,PME,Mines,Hors groupe,5,B,2008-10-11
+401,Ets Congo Basin Agro,PME,PME,Agro-industrie,Hors groupe,26,B,2012-10-06
+402,SA Atlantique Bois,PME,PME,Bois & Forêt,Hors groupe,19,C,2016-07-06
+403,SAS Equatoria Transport,PME,PME,Transport & Logistique,Hors groupe,6,C,2010-11-13
+404,SARL Nyong Bois,PME,PME,Bois & Forêt,Hors groupe,25,D,2023-10-06
+405,SARL Equatoria Agro,PME,PME,Agro-industrie,Hors groupe,14,E,2010-08-31
+406,SA Ogooué Construction,PME,PME,BTP & Immobilier,Hors groupe,17,D,2024-02-13
+407,SARL Ivindo Conseil,PME,PME,Services aux entreprises,Hors groupe,1,C,2022-02-14
+408,Ets Afrique Centrale Construction,PME,PME,BTP & Immobilier,Hors groupe,16,C,2013-11-04
+409,SAS Kilimandjaro Agro,PME,PME,Agro-industrie,Hors groupe,31,D,2021-08-14
+410,SARL Equatoria Santé,PME,PME,Santé & Pharmacie,Hors groupe,24,C,2009-04-17
+411,SARL Tropic Transport,PME,PME,Transport & Logistique,Hors groupe,4,D,2022-07-06
+412,Ets Equatoria Conseil,PME,PME,Services aux entreprises,Groupe Equatoria Holding,1,D,2024-05-12
+413,SA Mpoko Energy Services,PME,PME,"Pétrole, Gaz & Services",Hors groupe,32,B,2013-11-08
+414,SARL Afrique Centrale Négoce,PME,PME,Commerce & Distribution,Hors groupe,29,D,2023-07-01
+415,SARL Kilimandjaro Agro,PME,PME,Agro-industrie,Hors groupe,26,E,2013-03-01
+416,SAS Ivindo Energie,PME,PME,Énergie & Eau,Hors groupe,9,D,2012-08-29
+417,SARL Mpoko Construction,PME,PME,BTP & Immobilier,Hors groupe,11,C,2019-11-19
+418,SARL Atlantique Construction,PME,PME,BTP & Immobilier,Groupe Ogooué Energies,16,D,2023-03-27
+419,Ets Equatoria Agro,PME,PME,Agro-industrie,Hors groupe,16,B,2023-04-25
+420,SARL Ntem Santé,PME,PME,Santé & Pharmacie,Groupe Cemac Resources,25,D,2012-04-06
+421,Ets Congo Basin Mining,PME,PME,Mines,Hors groupe,2,B,2019-04-01
+422,Ets Chari Digital,PME,PME,Télécommunications & IT,Hors groupe,25,D,2024-03-15
+423,SAS Sanaga Energie,PME,PME,Énergie & Eau,Hors groupe,31,C,2022-10-09
+424,SA Mayombe Digital,PME,PME,Télécommunications & IT,Hors groupe,16,C,2013-06-30
+425,Ets Congo Basin Energy Services,PME,PME,"Pétrole, Gaz & Services",Hors groupe,32,E,2023-02-15
+426,Ets Atlantique Négoce,PME,PME,Commerce & Distribution,Hors groupe,26,D,2008-07-30
+427,SAS Lobé Agro,PME,PME,Agro-industrie,Hors groupe,23,E,2019-07-07
+428,Ets Tropic Transport,PME,PME,Transport & Logistique,Hors groupe,18,C,2014-10-25
+429,SARL Oubangui Transport,PME,PME,Transport & Logistique,Hors groupe,26,E,2018-07-19
+430,SAS Nyong Energy Services,PME,PME,"Pétrole, Gaz & Services",Hors groupe,35,C,2017-07-20
+431,SAS Tropic Conseil,PME,PME,Services aux entreprises,Hors groupe,5,E,2008-06-01
+432,SARL Lobé Mining,PME,PME,Mines,Hors groupe,19,C,2023-11-28
+433,SARL Ogooué Santé,PME,PME,Santé & Pharmacie,Hors groupe,3,D,2019-05-06
+434,Ets Atlantique Négoce,PME,PME,Commerce & Distribution,Hors groupe,5,B,2011-03-12
+435,SAS Tropic Construction,PME,PME,BTP & Immobilier,Hors groupe,35,C,2014-01-01
+436,SA Chari Transport,PME,PME,Transport & Logistique,Hors groupe,4,B,2013-03-08
+437,Ets Sahel Conseil,PME,PME,Services aux entreprises,Hors groupe,11,C,2018-06-29
+438,SARL Tropic Energie,PME,PME,Énergie & Eau,Hors groupe,18,C,2020-07-12
+439,SA Oubangui Digital,PME,PME,Télécommunications & IT,Hors groupe,15,D,2016-01-29
+440,SA Sahel Agro,PME,PME,Agro-industrie,Hors groupe,3,B,2023-08-09
+441,SAS Wouri Construction,PME,PME,BTP & Immobilier,Groupe Ogooué Energies,17,B,2024-05-01
+442,SARL Chari Négoce,PME,PME,Commerce & Distribution,Hors groupe,23,D,2011-08-25
+443,SA Mpoko Bois,PME,PME,Bois & Forêt,Hors groupe,27,C,2015-08-05
+444,SAS Ivindo Transport,PME,PME,Transport & Logistique,Groupe Cemac Resources,7,C,2023-09-25
+445,SA Chari Construction,PME,PME,BTP & Immobilier,Hors groupe,26,D,2012-05-24
+446,Ets Afrique Centrale Transport,PME,PME,Transport & Logistique,Hors groupe,28,C,2021-04-12
+447,Ets Cemac Energy Services,PME,PME,"Pétrole, Gaz & Services",Groupe Wouri Bâtiment,30,E,2023-05-07
+448,SARL Tropic Energy Services,PME,PME,"Pétrole, Gaz & Services",Hors groupe,2,B,2021-01-05
+449,SAS Ntem Santé,PME,PME,Santé & Pharmacie,Hors groupe,22,C,2008-02-08
+450,Ets Sahel Négoce,PME,PME,Commerce & Distribution,Hors groupe,23,D,2023-10-12
+451,SARL Equatoria Négoce,PME,PME,Commerce & Distribution,Hors groupe,29,C,2012-09-12
+452,SA Sahel Bois,PME,PME,Bois & Forêt,Hors groupe,38,D,2014-05-11
+453,SA Tropic Mining,PME,PME,Mines,Hors groupe,28,E,2013-03-31
+454,SAS Kilimandjaro Agro,PME,PME,Agro-industrie,Hors groupe,9,C,2018-05-19
+455,SAS Cemac Construction,PME,PME,BTP & Immobilier,Hors groupe,27,C,2016-07-03
+456,SA Ivindo Bois,PME,PME,Bois & Forêt,Hors groupe,35,B,2018-09-14
+457,Ets Lobé Conseil,PME,PME,Services aux entreprises,Hors groupe,28,C,2010-09-03
+458,SA Congo Basin Agro,PME,PME,Agro-industrie,Groupe Tropic Distribution,21,C,2018-09-07
+459,SA Atlantique Energie,PME,PME,Énergie & Eau,Hors groupe,28,D,2011-04-04
+460,SARL Ogooué Transport,PME,PME,Transport & Logistique,Hors groupe,40,D,2008-09-18
+461,SARL Lobé Agro,PME,PME,Agro-industrie,Groupe Oubangui Logistics,5,C,2013-08-14
+462,Ets Mayombe Mining,PME,PME,Mines,Hors groupe,23,C,2016-06-23
+463,SAS Logone Santé,PME,PME,Santé & Pharmacie,Groupe Wouri Bâtiment,20,D,2017-03-17
+464,SARL Chari Négoce,PME,PME,Commerce & Distribution,Hors groupe,21,B,2022-10-19
+465,SA Ogooué Construction,PME,PME,BTP & Immobilier,Hors groupe,10,D,2010-10-15
+466,Ets Equatoria Construction,PME,PME,BTP & Immobilier,Hors groupe,5,C,2016-04-06
+467,SA Tropic Négoce,PME,PME,Commerce & Distribution,Hors groupe,32,B,2010-08-24
+468,SA Ogooué Conseil,PME,PME,Services aux entreprises,Hors groupe,19,B,2014-12-11
+469,SARL Equatoria Construction,PME,PME,BTP & Immobilier,Hors groupe,25,D,2017-11-16
+470,SAS Chari Construction,PME,PME,BTP & Immobilier,Hors groupe,3,D,2010-06-20
+471,SAS Sahel Santé,PME,PME,Santé & Pharmacie,Hors groupe,11,E,2020-01-19
+472,SARL Sahel Négoce,PME,PME,Commerce & Distribution,Groupe Sanaga Industries,39,B,2020-08-12
+473,SA Lobé Conseil,PME,PME,Services aux entreprises,Hors groupe,17,D,2018-10-13
+474,SARL Atlantique Energie,PME,PME,Énergie & Eau,Hors groupe,35,D,2009-08-27
+475,SA Kilimandjaro Conseil,PME,PME,Services aux entreprises,Hors groupe,1,B,2017-05-28
+476,SARL Tropic Bois,PME,PME,Bois & Forêt,Hors groupe,13,B,2015-07-29
+477,Ets Nyong Conseil,PME,PME,Services aux entreprises,Hors groupe,26,D,2017-07-08
+478,Ets Ntem Négoce,PME,PME,Commerce & Distribution,Hors groupe,15,D,2014-07-31
+479,SARL Ivindo Energy Services,PME,PME,"Pétrole, Gaz & Services",Hors groupe,11,B,2024-04-15
+480,SA Atlantique Energy Services,PME,PME,"Pétrole, Gaz & Services",Hors groupe,24,C,2024-02-14
+481,SARL Lobé Energy Services,PME,PME,"Pétrole, Gaz & Services",Hors groupe,37,B,2024-10-31
+482,SAS Nyong Construction,PME,PME,BTP & Immobilier,Hors groupe,24,B,2015-05-20
+483,SAS Logone Négoce,PME,PME,Commerce & Distribution,Hors groupe,26,E,2024-02-05
+484,SARL Cemac Bois,PME,PME,Bois & Forêt,Hors groupe,29,B,2024-01-06
+485,SARL Lobé Energy Services,PME,PME,"Pétrole, Gaz & Services",Groupe Mayombe Invest,7,B,2023-06-16
+486,SAS Ntem Conseil,PME,PME,Services aux entreprises,Hors groupe,19,D,2010-03-25
+487,SARL Wouri Energie,PME,PME,Énergie & Eau,Hors groupe,28,D,2014-10-28
+488,SA Wouri Energie,PME,PME,Énergie & Eau,Hors groupe,17,C,2014-06-10
+489,SAS Wouri Construction,PME,PME,BTP & Immobilier,Hors groupe,15,E,2010-03-22
+490,SAS Mayombe Construction,PME,PME,BTP & Immobilier,Hors groupe,3,D,2012-05-16
+491,SAS Wouri Agro,Grande entreprise,Corporate,Agro-industrie,Hors groupe,8,D,2017-01-22
+492,Ets Kilimandjaro Energy Services,Grande entreprise,Corporate,"Pétrole, Gaz & Services",Hors groupe,31,B,2008-12-14
+493,Ets Kilimandjaro Négoce,Grande entreprise,Corporate,Commerce & Distribution,Hors groupe,2,C,2015-12-19
+494,SAS Atlantique Agro,Grande entreprise,Corporate,Agro-industrie,Groupe Mayombe Invest,7,C,2020-07-18
+495,SAS Lobé Mining,Grande entreprise,Corporate,Mines,Groupe Wouri Bâtiment,29,B,2021-07-04
+496,SAS Nyong Transport,Grande entreprise,Corporate,Transport & Logistique,Groupe Chari Agro,24,A,2016-03-19
+497,SA Nyong Construction,Grande entreprise,Corporate,BTP & Immobilier,Hors groupe,27,C,2010-01-09
+498,Ets Tropic Construction,Grande entreprise,Corporate,BTP & Immobilier,Hors groupe,3,C,2016-11-20
+499,Ets Oubangui Construction,Grande entreprise,Corporate,BTP & Immobilier,Hors groupe,3,E,2023-08-04
+500,SA Logone Santé,Grande entreprise,Corporate,Santé & Pharmacie,Hors groupe,9,B,2017-10-19
+501,Ets Tropic Digital,Grande entreprise,Corporate,Télécommunications & IT,Groupe Ogooué Energies,35,C,2017-07-02
+502,Ets Mayombe Energy Services,Grande entreprise,Corporate,"Pétrole, Gaz & Services",Hors groupe,30,E,2023-07-09
+503,Ets Congo Basin Négoce,Grande entreprise,Corporate,Commerce & Distribution,Groupe Oubangui Logistics,32,B,2019-01-27
+504,SARL Lobé Bois,Grande entreprise,Corporate,Bois & Forêt,Groupe Chari Agro,8,A,2013-08-26
+505,Ets Chari Construction,Grande entreprise,Corporate,BTP & Immobilier,Hors groupe,35,C,2020-06-16
+506,Ets Cemac Energie,Grande entreprise,Corporate,Énergie & Eau,Hors groupe,16,B,2019-07-13
+507,Ets Mayombe Bois,Grande entreprise,Corporate,Bois & Forêt,Hors groupe,31,C,2013-06-20
+508,SA Tropic Conseil,Grande entreprise,Corporate,Services aux entreprises,Groupe Ogooué Energies,26,A,2024-03-07
+509,SA Logone Construction,Grande entreprise,Corporate,BTP & Immobilier,Groupe Ogooué Energies,3,D,2008-11-06
+510,SARL Tropic Négoce,Grande entreprise,Corporate,Commerce & Distribution,Groupe Wouri Bâtiment,10,E,2011-08-18
+511,SARL Mayombe Transport,Grande entreprise,Corporate,Transport & Logistique,Hors groupe,10,B,2011-05-15
+512,SA Ntem Conseil,Grande entreprise,Corporate,Services aux entreprises,Hors groupe,10,C,2012-07-12
+513,SARL Mpoko Bois,Grande entreprise,Corporate,Bois & Forêt,Hors groupe,2,B,2015-04-18
+514,SARL Ogooué Digital,Grande entreprise,Corporate,Télécommunications & IT,Hors groupe,22,C,2010-02-05
+515,Ets Mayombe Digital,Grande entreprise,Corporate,Télécommunications & IT,Groupe Cemac Resources,5,D,2021-08-06
+516,SARL Afrique Centrale Négoce,Grande entreprise,Corporate,Commerce & Distribution,Hors groupe,35,A,2015-05-02
+517,SA Afrique Centrale Construction,Grande entreprise,Corporate,BTP & Immobilier,Hors groupe,21,B,2008-11-23
+518,SA Logone Santé,Grande entreprise,Corporate,Santé & Pharmacie,Groupe Chari Agro,17,C,2015-09-10
+519,SARL Nyong Négoce,Grande entreprise,Corporate,Commerce & Distribution,Groupe Chari Agro,13,C,2022-03-30
+520,Ets Tropic Mining,Grande entreprise,Corporate,Mines,Hors groupe,20,D,2024-11-07
+521,SA Mpoko Négoce,Grande entreprise,Corporate,Commerce & Distribution,Hors groupe,40,C,2010-11-03
+522,SA Atlantique Digital,Grande entreprise,Corporate,Télécommunications & IT,Groupe Chari Agro,38,A,2014-01-21
+523,SARL Wouri Bois,Grande entreprise,Corporate,Bois & Forêt,Groupe Mayombe Invest,29,B,2009-10-07
+524,SA Afrique Centrale Transport,Grande entreprise,Corporate,Transport & Logistique,Groupe Wouri Bâtiment,13,B,2012-06-05
+525,Ets Ntem Négoce,Grande entreprise,Corporate,Commerce & Distribution,Groupe Cemac Resources,18,B,2010-04-06
+526,SA Afrique Centrale Agro,Grande entreprise,Corporate,Agro-industrie,Groupe Oubangui Logistics,25,C,2020-07-10
+527,SA Mayombe Négoce,Grande entreprise,Corporate,Commerce & Distribution,Hors groupe,16,B,2022-10-16
+528,SAS Ogooué Energie,Grande entreprise,Corporate,Énergie & Eau,Hors groupe,12,B,2014-07-12
+529,SARL Oubangui Construction,Grande entreprise,Corporate,BTP & Immobilier,Hors groupe,9,B,2018-11-27
+530,SARL Tropic Agro,Grande entreprise,Corporate,Agro-industrie,Groupe Oubangui Logistics,16,A,2011-12-11
+531,SA Cemac Digital,Grande entreprise,Corporate,Télécommunications & IT,Hors groupe,19,B,2022-02-21
+532,SARL Chari Négoce,Grande entreprise,Corporate,Commerce & Distribution,Groupe Cemac Resources,20,D,2008-08-29
+533,SAS Kilimandjaro Négoce,Grande entreprise,Corporate,Commerce & Distribution,Hors groupe,31,B,2013-10-27
+534,SAS Lobé Santé,Grande entreprise,Corporate,Santé & Pharmacie,Groupe Mayombe Invest,29,B,2014-02-07
+535,Ets Tropic Agro,Grande entreprise,Corporate,Agro-industrie,Groupe Ogooué Energies,29,B,2024-07-26
+536,Commune Cemac du Logement,Institution publique,Secteur public,Établissement public,Hors groupe,28,E,2015-06-13
+537,Régie Mayombe de l'Eau,Institution publique,Secteur public,Établissement public,Hors groupe,3,C,2012-01-10
+538,Office Mpoko de l'Énergie,Institution publique,Secteur public,Établissement public,Hors groupe,34,C,2009-01-02
+539,Société Cemac de l'Eau,Institution publique,Secteur public,Établissement public,Hors groupe,38,B,2024-05-15
+540,Office Mpoko Nationale,Institution publique,Secteur public,Établissement public,Hors groupe,18,A,2020-07-03
+541,Régie Cemac des Ports,Institution publique,Secteur public,Établissement public,Hors groupe,3,E,2015-05-18
+542,Société Chari des Ports,Institution publique,Secteur public,Établissement public,Hors groupe,26,C,2013-07-26
+543,Régie Ogooué de l'Eau,Institution publique,Secteur public,Collectivité locale,Hors groupe,15,A,2023-07-25
+544,Commune Ivindo Nationale,Institution publique,Secteur public,Société d'État,Hors groupe,7,C,2021-09-24
+545,Régie Oubangui des Ports,Institution publique,Secteur public,Établissement public,Hors groupe,38,C,2023-02-28
+546,Société Sanaga Nationale,Institution publique,Secteur public,Collectivité locale,Hors groupe,3,C,2015-11-11
+547,Agence Ntem de l'Énergie,Institution publique,Secteur public,Établissement public,Hors groupe,36,B,2008-07-17
+548,Agence Ivindo des Ports,Institution publique,Secteur public,Établissement public,Hors groupe,30,B,2021-01-20
+549,Office Lobé Nationale,Institution publique,Secteur public,Société d'État,Hors groupe,15,B,2010-04-22
+550,Commune Kilimandjaro Nationale,Institution publique,Secteur public,Société d'État,Hors groupe,25,C,2013-11-26

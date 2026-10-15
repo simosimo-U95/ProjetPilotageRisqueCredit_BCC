@@ -1,0 +1,13 @@
+id_produit,libelle_produit,categorie_produit,garantie_type,duree_min_mois,duree_max_mois,taux_min_pct,taux_max_pct,lgd_reference
+1,Crédit consommation,Retail,Nantissement de salaire / caution,12,60,9.0,13.5,0.55
+2,Crédit immobilier,Retail,Hypothèque,120,240,7.5,9.5,0.3
+3,Crédit véhicule,Retail,Gage sur véhicule,36,72,8.5,11.5,0.4
+4,Avance sur salaire / découvert,Retail,Domiciliation de salaire,3,12,12.0,16.0,0.65
+5,Crédit de trésorerie,PME & Corporate,Caution / nantissement de stocks,12,36,8.0,12.0,0.5
+6,Crédit d'investissement,PME & Corporate,Hypothèque / nantissement de matériel,36,96,7.0,10.5,0.4
+7,Crédit-bail (leasing),PME & Corporate,Propriété du bien loué,36,60,8.0,11.0,0.35
+8,Financement campagne agricole,PME & Corporate,Nantissement de récolte,6,12,9.0,12.5,0.55
+9,Escompte commercial,PME & Corporate,Cession de créances,3,9,8.5,11.5,0.45
+10,Financement de projets,Corporate & Institutions,Sûretés de projet / cession de contrats,84,144,6.5,8.5,0.35
+11,Ligne de trésorerie revolving,Corporate & Institutions,Caution corporate,12,24,6.5,9.0,0.45
+12,Préfinancement de marchés publics,PME & Corporate,Cession de créances sur l'État,6,18,8.0,11.0,0.5
